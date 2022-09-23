@@ -1,4 +1,8 @@
-package seguridadRegistraduriaGP2.Seguridad.Repositorios;
+package tutorialMisionTIC.seguridad.Repositorios;
 
-public interface RepositorioRol {
+import org.springframework.data.mongodb.repository.MongoRepository;
+import tutorialMisionTIC.seguridad.Modelos.Rol;
+
+public interface RepositorioRol extends MongoRepository<Rol,String> {
+
 }
