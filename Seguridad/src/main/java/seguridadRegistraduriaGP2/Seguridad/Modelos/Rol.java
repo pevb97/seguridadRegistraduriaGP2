@@ -1,4 +1,4 @@
-package tutorialMisionTIC.seguridad.Modelos;
+package seguridadRegistraduriaGP2.Seguridad.Modelos;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;

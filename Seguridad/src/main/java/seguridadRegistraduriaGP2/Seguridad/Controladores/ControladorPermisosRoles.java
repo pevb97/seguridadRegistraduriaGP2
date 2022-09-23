@@ -13,8 +13,10 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
+import seguridadRegistraduriaGP2.Seguridad.Modelos.Permiso;
 import seguridadRegistraduriaGP2.Seguridad.Modelos.PermisosRoles;
 import seguridadRegistraduriaGP2.Seguridad.Modelos.Rol;
+import seguridadRegistraduriaGP2.Seguridad.Repositorios.RepositorioPermiso;
 import seguridadRegistraduriaGP2.Seguridad.Repositorios.RepositorioPermisosRoles;
 import seguridadRegistraduriaGP2.Seguridad.Repositorios.RepositorioRol;
 

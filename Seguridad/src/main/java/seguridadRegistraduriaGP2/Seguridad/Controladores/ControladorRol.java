@@ -1,7 +1,7 @@
-package tutorialMisionTIC.seguridad.Controladores;
+package seguridadRegistraduriaGP2.Seguridad.Controladores;
 
-import tutorialMisionTIC.seguridad.Modelos.Rol;
-import tutorialMisionTIC.seguridad.Repositorios.RepositorioRol;
+import seguridadRegistraduriaGP2.Seguridad.Modelos.Rol;
+import seguridadRegistraduriaGP2.Seguridad.Repositorios.RepositorioRol;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
